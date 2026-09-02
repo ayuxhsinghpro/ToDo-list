@@ -1,2 +1,25 @@
-# ToDo-list
-A Modern &amp; responsive To-Do list built with HTML,CSS and Java script.
+# ✅ To-Do List
+
+A simple task management web application.
+
+## ✨ Features
+
+- Add tasks
+- Delete tasks
+- Mark tasks as completed
+- Responsive design
+- Simple user interface
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 Future Improvements
+
+- Local storage
+- Task categories
+- Due dates
+- Dark mode
+- User accounts
